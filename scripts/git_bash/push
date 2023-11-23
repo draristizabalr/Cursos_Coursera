@@ -1,0 +1,2 @@
+py scripts/python/createPushTxt.py
+. scripts/git_bash/gitPush
